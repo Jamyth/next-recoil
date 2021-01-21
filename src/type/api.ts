@@ -1,3 +1,1 @@
-export interface APIDefinition {
-    type: string;
-}
+export interface APIDefinition {}
