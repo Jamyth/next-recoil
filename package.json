@@ -1,6 +1,6 @@
 {
   "name": "next-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Next.JS Template",
   "author": "Jamyth",
   "license": "MIT",
@@ -21,11 +21,9 @@
   "dependencies": {
     "autoprefixer": "^10.2.3",
     "next": "^10.0.5",
-    "postcss": "^8.2.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "recoil": "^0.1.2",
-    "tailwindcss": "^2.0.2"
+    "recoil": "^0.1.2"
   },
   "scripts": {
     "dev": "next dev",
